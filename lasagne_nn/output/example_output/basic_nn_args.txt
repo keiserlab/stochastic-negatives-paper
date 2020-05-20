@@ -1,0 +1,8 @@
+--output_directory
+output/example_output
+--fingerprints_dataset
+/home/ecaceres/Desktop/Projects/nnet/Data/chembl20/ecfp/nick/chmbl20_fp_ijv_m10cpt_gtrel_sub_23l.pcl
+--target_dataset
+/home/ecaceres/Desktop/Projects/nnet/Data/chembl20/ecfp/nick/chmbl20_cta_ijv_m10cpt_gtrel_sub_23l.pcl
+--num_epochs
+3

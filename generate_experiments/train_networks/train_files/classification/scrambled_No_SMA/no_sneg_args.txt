@@ -1,0 +1,15 @@
+--multitask
+--negative_threshold
+5.0
+--positive_negative_ratio
+1.0
+--store_loss_every_n_epochs
+10
+--early_stopping_patience
+10
+--num_epochs
+300
+-d
+/srv/home/ecaceres/data_save_folders/output/20180815_Paper_Retrains/scrambled_idx/SCRAMBLED_train_ts2012_chembl20_MWmax800_scrubDM_minpos10_cutoff5.hdf5
+-t
+/srv/nas/mk1/users/ecaceres/20180525_DM_scrubbing/train_data/ts2012_chembl20_MWmax800_scrubDM_minpos10_cutoff5_target_index.pkl

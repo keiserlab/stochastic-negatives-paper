@@ -1,0 +1,4 @@
+/srv/nas/mk1/users/ecaceres/20180525_DM_scrubbing/train_data/ts2012_chembl20_MWmax800_scrubDM_minpos10_cutoff5_target_index.pkl
+/srv/home/ecaceres/data_save_folders/output/20180815_Paper_Retrains/SEA_GEN/binding/preds/train_ts2012_chembl20_MWmax800_scrubDM_minpos10_cutoff5_SEA_predictions.csv
+/srv/home/ecaceres/data_save_folders/output/20180815_Paper_Retrains/SEA_GEN/binding/preds/MI_PCBA_subset_chembl20_800maxmw_10moleculesmin_medianval_mid_4096bvECFP_TS2012train_sea_pcutoffe-5_blacklist.csv.gz
+1.0e-5

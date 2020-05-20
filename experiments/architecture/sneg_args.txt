@@ -1,0 +1,8 @@
+--positive_negative_ratio
+0.5
+-e
+500
+--learning_rate
+0.01
+--multitask
+--stochastic_negatives

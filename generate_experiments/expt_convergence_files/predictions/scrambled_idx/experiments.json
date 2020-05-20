@@ -1,0 +1,26 @@
+[
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      40, 
+      21, 
+      44, 
+      42, 
+      41
+    ], 
+    "name": "scrambled_idx_pnr_1.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/scrambled_idx/fold_0/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/scrambled_idx/fold_1/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/scrambled_idx/fold_2/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/scrambled_idx/fold_3/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/scrambled_idx/fold_4/pnr_1.0"
+    ]
+  }
+]

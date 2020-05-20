@@ -1,0 +1,38 @@
+[
+  {
+    "folds": [
+      "fold_0"
+    ], 
+    "converged_epochs": [
+      320
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR01_pnr_4.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR01/fold_0/pnr_4.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0"
+    ], 
+    "converged_epochs": [
+      324
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR01_pnr_9.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR01/fold_0/pnr_9.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0"
+    ], 
+    "converged_epochs": [
+      314
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR01_pnr_19.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR01/fold_0/pnr_19.0"
+    ]
+  }
+]

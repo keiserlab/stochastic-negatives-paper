@@ -1,0 +1,1 @@
+./run_experiments.sh to generate Negatives Removed network

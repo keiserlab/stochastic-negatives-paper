@@ -1,0 +1,26 @@
+[
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      300,
+      200,
+      200,
+      200,
+      100
+    ], 
+    "name": "NEG_RM_RATIOS_scrambled_pnr_1.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/all_negs_stochastic/NEG_RM_RATIOS_scrambled/fold_0/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/all_negs_stochastic/NEG_RM_RATIOS_scrambled/fold_1/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/all_negs_stochastic/NEG_RM_RATIOS_scrambled/fold_2/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/all_negs_stochastic/NEG_RM_RATIOS_scrambled/fold_3/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/all_negs_stochastic/NEG_RM_RATIOS_scrambled/fold_4/pnr_1.0"
+    ]
+  } 
+]

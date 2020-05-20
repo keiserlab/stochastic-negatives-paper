@@ -1,0 +1,6 @@
+--output_directory
+output/example_output
+--dataset
+../data/STchembl20_800maxmw_10moleculesmin_medianval_mid_4096bvECFP.hdf5
+--num_epochs
+3

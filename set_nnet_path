@@ -1,0 +1,25 @@
+# This file must be used with "source set_nnet_path" *from bash*
+# you cannot run it directly. Call "unset_nnet_path" when done.
+
+unset_nnet () {
+
+    if [ -n "$_OLD_PYTHONPATH" ] ; then
+        PYTHONPATH="$_OLD_PYTHONPATH"
+        export PYTHONPATH
+        unset _OLD_PYTHONPATH
+    fi
+
+    if [ ! "$1" = "nondestructive" ] ; then
+    # Self destruct!
+        unset -f unset_nnet
+    fi
+
+}
+
+# unsource/deactivate previous calls to this script
+unset_nnet nondestructive
+
+_OLD_PYTHONPATH="$PYTHONPATH"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+export PYTHONPATH="$SCRIPT_DIR:$PYTHONPATH"
+

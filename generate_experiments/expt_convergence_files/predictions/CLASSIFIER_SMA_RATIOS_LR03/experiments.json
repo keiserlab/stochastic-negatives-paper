@@ -1,0 +1,314 @@
+[
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      343, 
+      368, 
+      373, 
+      369, 
+      360
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.8182", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.8182"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      351, 
+      350, 
+      373, 
+      351, 
+      381
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.4286", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.4286"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      378, 
+      382, 
+      386, 
+      376, 
+      399
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.0753", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.0753"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      150, 
+      154, 
+      149, 
+      154, 
+      161
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_9.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_9.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      143, 
+      123, 
+      158, 
+      140, 
+      138
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_19.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_19.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      366, 
+      399, 
+      357, 
+      347, 
+      399
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.25", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.25"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      109, 
+      377, 
+      313, 
+      343, 
+      356
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_1.2222", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_1.2222"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      385, 
+      378, 
+      328, 
+      363, 
+      326
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_1.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_1.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      162, 
+      157, 
+      184, 
+      173, 
+      172
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_4.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_4.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      362, 
+      385, 
+      326, 
+      342, 
+      349
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_1.5", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_1.5"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      200, 
+      382, 
+      365, 
+      359, 
+      399
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.1111", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.1111"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      374, 
+      371, 
+      379, 
+      339, 
+      363
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_0.6666", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_0.6666"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      211, 
+      187, 
+      182, 
+      172, 
+      197
+    ], 
+    "name": "CLASSIFIER_SMA_RATIOS_LR03_pnr_2.3333", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_0/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_1/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_2/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_3/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_binary_classifier_1024_2048_3072/CLASSIFIER_SMA_RATIOS_LR03/fold_4/pnr_2.3333"
+    ]
+  }
+]

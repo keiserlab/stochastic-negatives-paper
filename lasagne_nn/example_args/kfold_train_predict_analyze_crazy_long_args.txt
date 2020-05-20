@@ -1,0 +1,8 @@
+--output_directory
+output/5fold_example_output_dir
+--dataset
+../data/chmbl20_fp_ijv_m10cpt_gtrel_sub_23l.pcl
+--n_folds
+5
+--command-line
+python basic_nn.py @example_args/basic_nn_args.txt -o {fold_dir} -i {index_file}; python run_nn.py -o {fold_dir}/drugmatrix_prediction -f ../data/drugmatrix_id_fingerprint.csv -t ../data/chmbl20_cta_ijv_m10cpt_gtrel_sub_23l.pcl -w {fold_dir}/model_at_epoch_2.npz -n ../lasagne_nn/basic_nn.py; python ../common/prediction_analysis.py -p {fold_dir}/drugmatrix_prediction/nn_predicted_targets.csv --dm_export_path ../data/drugmatrix_chembl20_export.csv

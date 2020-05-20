@@ -1,0 +1,8 @@
+--output_directory
+output/5fold_example_output_dir
+--dataset
+../data/STchembl20_800maxmw_10moleculesmin_medianval_mid_4096bvECFP.hdf5
+--n_folds
+5
+--command-line
+python hdf5_basic_nn.py @example_args/basic_nn_args.txt -o {fold_dir} --test-index-file {index_file}

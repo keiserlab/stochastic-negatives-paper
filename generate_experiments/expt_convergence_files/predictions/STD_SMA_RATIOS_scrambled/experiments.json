@@ -1,0 +1,311 @@
+[
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      8, 
+      6, 
+      6, 
+      8, 
+      9
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_4.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_4.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_4.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      6, 
+      6, 
+      8, 
+      5, 
+      9
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_19.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_19.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_19.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      272, 
+      361, 
+      316, 
+      263, 
+      347
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.0753", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.0753"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      5, 
+      5, 
+      7, 
+      8, 
+      8
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_9.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_9.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_9.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      78, 
+      51, 
+      41, 
+      62, 
+      50
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.4286", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.4286"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      23, 
+      41, 
+      36, 
+      45, 
+      43
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.8182", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.8182"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      83, 
+      99, 
+      82, 
+      74, 
+      74
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.25", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.25"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      40, 
+      33, 
+      40, 
+      45, 
+      18
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_1.2222", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_1.2222"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3"
+    ], 
+    "converged_epochs": [
+      14, 
+      4, 
+      25, 
+      21
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_1.0", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_1.0", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_1.0"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      24, 
+      47, 
+      50, 
+      44, 
+      54
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_1.5", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_1.5"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      174, 
+      223, 
+      213, 
+      163, 
+      133
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.1111", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.1111"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      59, 
+      62, 
+      51, 
+      52, 
+      30
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_0.6666", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_0.6666"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      7, 
+      9, 
+      15, 
+      9, 
+      9
+    ], 
+    "name": "STD_SMA_RATIOS_scrambled_pnr_2.3333", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_0/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_1/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_2/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_3/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/lr_nesterov_1024_2048_3072/STD_SMA_RATIOS_scrambled/fold_4/pnr_2.3333"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+--prediction_path
+../lasagne_nn/output/5fold_example_output_dir/fold_0/drugmatrix_prediction/nn_predicted_targets.csv
+--dm_export_path
+../data/drugmatrix_chembl20_export.csv

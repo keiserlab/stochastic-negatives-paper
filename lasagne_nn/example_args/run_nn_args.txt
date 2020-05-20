@@ -1,0 +1,10 @@
+--output_directory
+../lasagne_nn/output/5fold_example_output_dir/fold_0/drugmatrix_prediction
+--fingerprints_dataset
+../data/drugmatrix_id_fingerprint.csv
+--target_associations_dataset
+../data/chmbl20_cta_ijv_m10cpt_gtrel_sub_23l.pcl
+--weights_and_parameters
+../lasagne_nn/output/5fold_example_output_dir/fold_0/model_at_epoch_2.npz
+--neural_network_script
+../lasagne_nn/basic_nn.py

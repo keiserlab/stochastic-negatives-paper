@@ -1,0 +1,218 @@
+[
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      342, 
+      370, 
+      325, 
+      334, 
+      372
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_1.2222", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_1.2222", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_1.2222"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.0753", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.0753", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.0753"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.4286", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.4286", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.4286"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.25", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.25", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.25"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.8182", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.8182", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.8182"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      399, 
+      399, 
+      399, 
+      397, 
+      399
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_1.5", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_1.5", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_1.5"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.1111", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.1111", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.1111"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_0.6666", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_0.6666", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_0.6666"
+    ]
+  }, 
+  {
+    "folds": [
+      "fold_0", 
+      "fold_1", 
+      "fold_2", 
+      "fold_3", 
+      "fold_4"
+    ], 
+    "converged_epochs": [
+      186, 
+      230, 
+      388, 
+      363, 
+      350
+    ], 
+    "name": "CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03_pnr_2.3333", 
+    "trained_paths": [
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_0/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_1/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_2/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_3/pnr_2.3333", 
+      "/srv/nas/mk1/users/ecaceres//20190410_SMA_Investigation/trained_nets/classification_negs_rm/CLASSIFIER_NEG_RM_SMA_RATIOS_scrambled_LR03/fold_4/pnr_2.3333"
+    ]
+  }
+]
