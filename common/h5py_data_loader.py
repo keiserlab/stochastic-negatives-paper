@@ -380,7 +380,7 @@ def stochastically_add_activity_to_unknown_training_data(known_mask, x_fingerpri
             num_unknowns = np.sum(unknowns)
 
             if num_unknowns == 0:
-                logging.error("no unknowns found for {} stochastic negatives at target {}".format(
+                logging.warn("no unknowns found for {} stochastic negatives at target {}".format(
                     num_snegs_for_target, target_index))
             else:
                 if num_unknowns < num_snegs_for_target:
@@ -391,18 +391,24 @@ def stochastically_add_activity_to_unknown_training_data(known_mask, x_fingerpri
                 sneg_targ_inds[index:index + num_snegs_for_target] = target_index
                 index += num_snegs_for_target
 
+    # handle case where no unknowns exist for a target in the batch
+    total_num_snegs = index
+    activity = activity[:total_num_snegs]
+    sneg_fp_inds = sneg_fp_inds[:total_num_snegs]
+    sneg_targ_inds = sneg_targ_inds[:total_num_snegs]
+
     if is_multitask:
         y_targets[sneg_fp_inds, sneg_targ_inds] = activity
         return x_fingerprints, y_targets
     else:
         batch_size = y_targets.shape[0]
         target_size = y_targets.shape[1]
-        new_x_targets = np.empty((batch_size + sneg_size, x_fingerprints.shape[1]), dtype=x_fingerprints.dtype)
+        new_x_targets = np.empty((batch_size + total_num_snegs, x_fingerprints.shape[1]), dtype=x_fingerprints.dtype)
         new_x_targets[:batch_size] = x_fingerprints
         new_x_targets[batch_size:] = x_fingerprints[sneg_fp_inds]
 
         # add stochastic negatives to y_targets
-        new_y_targets = np.zeros((batch_size + sneg_size, target_size), dtype=y_targets.dtype)
+        new_y_targets = np.zeros((batch_size + total_num_snegs, target_size), dtype=y_targets.dtype)
         new_y_targets[:batch_size] = y_targets
         new_y_targets[batch_size:][np.arange(len(sneg_targ_inds)), sneg_targ_inds] = activity
         return new_x_targets, new_y_targets
